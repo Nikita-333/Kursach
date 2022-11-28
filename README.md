@@ -5,5 +5,6 @@
 Data/hello/Image_1669665314.439264.jpg - жест привет
 Data/stop/Image_1669665520.5663724 - жест стоп
 Data/yes/Image_1669665705.36579 - да
-
+Data/luck/Image_1669665851.0128384 - удача
+Data/call/Image_1669666498.8015888-позвонить
 
